@@ -1,0 +1,34 @@
+.country-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid #334155;
+}
+
+.name {
+  font-family: Roboto;
+  color: #ffffff;
+
+  font-size: 15px;
+}
+
+.button {
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100px;
+  font-weight: bold;
+  color: #ffffff;
+  margin: 5px;
+  cursor: pointer;
+  text-align: center;
+  padding-top: 20px;
+  background-color: #3b82f6;
+}
+
+.para {
+  color: #ffffff;
+  font-family: Roboto;
+  margin-right: 40px;
+}
